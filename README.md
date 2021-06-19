@@ -1,2 +1,2 @@
-# my_nutrition
-this is a single page application about nutrition
+# dogstagram
+This is a single page application for all the dog lovers in the world. 
